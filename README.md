@@ -9,6 +9,13 @@ This repository hosts my personal portfolio website and showcases projects that 
 
 The site itself is deployed using a **CI/CD pipeline with GitHub Actions → Netlify**, making it a DevOps project in its own right.
 
+## CI/CD Pipeline
+
+Here’s how my project is deployed:
+
+![CI/CD Pipeline](assets/pipeline.png)
+
+
 ---
 
 ## 📂 Projects
